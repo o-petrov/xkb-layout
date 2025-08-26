@@ -1,0 +1,4 @@
+! option   = symbols
+  codeaffen:tyru  = +codeaffen(tyru)
+
+! include %S/evdev

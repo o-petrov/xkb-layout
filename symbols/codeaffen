@@ -1,0 +1,6 @@
+partial alphanumeric_keys
+xkb_symbols "tyru" {
+   include "ru(common)"
+   include "typo(base)"
+   include "level3(ralt_switch)"
+};
